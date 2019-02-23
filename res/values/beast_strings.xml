@@ -519,6 +519,9 @@
     <string name="screen_off_animation_default">Default</string>
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">Scale</string>
-    
+    <!-- Advanced Controls -->
+	<string name="advanced_controls_title">Advanced Controls</string>
+
+
 </resources>
 
